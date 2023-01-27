@@ -9,6 +9,9 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sint accusantium maxime quis temporibus explicabo nam fugit laudantium quas earum modi, reiciendis culpa itaque commodi reprehenderit laborum vero quasi quae?</p>
+    <ul>
+        <li>git commit</li>
+    </ul>
     
 </body>
 </html>
